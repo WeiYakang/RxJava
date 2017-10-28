@@ -6,4 +6,5 @@ package com.example.administrator.project_1;
 
 public class MyClass {
     public static final int a=11;
+     public static final int b=22;
 }
